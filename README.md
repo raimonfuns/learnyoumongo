@@ -1,0 +1,2 @@
+# learnyoumongo
+MongoDB workshop
